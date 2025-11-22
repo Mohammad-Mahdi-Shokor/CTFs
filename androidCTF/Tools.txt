@@ -1,0 +1,13 @@
+List of tools I used :
+
+
+For Mobile CTF:
+  1.Android emulator - runs android vertual device 
+  2.adb ( android debug bridge ) - bash to connect host to avd 
+  3.jadx gui - shows the content of apk 
+  4.Frida - Bypass root detection , certificate validation , anti-debugging , bypass SSL
+  5.Magisk - gain root access
+  6.Burpsuite - Watch and modify flow of requests through the app
+  7.apktool - get the files of any apk + be able to modify it ( you will need apksigner to add key for the app before returning it back to apk ) 
+  8.apksigner - mentioned above
+  9.Ghidra - be able to view assembly code of apk (reverse engineer the app)
