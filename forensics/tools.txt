@@ -1,0 +1,4 @@
+exiftool : show description / author / ... 
+binwalk : extract hidden data / files
+steghide
+stegseek
