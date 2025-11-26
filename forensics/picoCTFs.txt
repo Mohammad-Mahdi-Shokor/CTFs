@@ -1,1 +1,5 @@
 https://play.picoctf.org/practice/challenge/530
+https://play.picoctf.org/practice/challenge/460
+https://play.picoctf.org/practice/challenge/427
+https://play.picoctf.org/practice/challenge/527
+https://play.picoctf.org/practice/challenge/524
