@@ -3,3 +3,5 @@ https://play.picoctf.org/practice/challenge/460
 https://play.picoctf.org/practice/challenge/427
 https://play.picoctf.org/practice/challenge/527
 https://play.picoctf.org/practice/challenge/524
+https://play.picoctf.org/practice/challenge/408
+https://play.picoctf.org/practice/challenge/505
