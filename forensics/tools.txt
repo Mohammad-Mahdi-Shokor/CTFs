@@ -1,5 +1,5 @@
 exiftool : show description / author / ... 
-binwalk : extract hidden data / files
+binwalk -e: extract hidden data / files
 steghide
 stegseek
 eog : view image
@@ -8,4 +8,3 @@ xxd : shows the whole hexadecimal of the file
 hexeditor : edits the head of hex of a file
 zsteg : idk where it helps but it helps somewhere
 java -jar bin/stegsolve.jar  : opens stegsolve which shows picture under different color schemes 
-https://play.picoctf.org/practice/challenge/350
