@@ -1,6 +1,3 @@
-List of tools I used :
-
-
 For Mobile CTF:
   1.Android emulator - runs android vertual device 
   2.adb ( android debug bridge ) - bash to connect host to avd 
