@@ -9,3 +9,5 @@ hexeditor : edits the head of hex of a file
 zsteg : it helps in LSB
 java -jar bin/stegsolve.jar  : opens stegsolve which shows picture under different color schemes 
 zbarimg : scans qr code and shows output
+unzip: unzips files ( use -l to list all files in it ) 
+zipinfo: gives you info about zip file
