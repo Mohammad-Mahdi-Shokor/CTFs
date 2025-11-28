@@ -8,3 +8,5 @@ https://play.picoctf.org/practice/challenge/505
 https://play.picoctf.org/practice/challenge/362
 https://play.picoctf.org/practice/challenge/350
 https://play.picoctf.org/practice/challenge/305
+https://play.picoctf.org/practice/challenge/348
+https://play.picoctf.org/practice/challenge/286
