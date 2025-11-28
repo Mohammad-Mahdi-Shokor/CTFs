@@ -7,3 +7,4 @@ https://play.picoctf.org/practice/challenge/408
 https://play.picoctf.org/practice/challenge/505
 https://play.picoctf.org/practice/challenge/362
 https://play.picoctf.org/practice/challenge/350
+https://play.picoctf.org/practice/challenge/305
