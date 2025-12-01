@@ -1,4 +1,7 @@
-exiftool : show description / author / ... 
+The following commands are commands that could help you in foresincs ctfs and could be used on files ( in linux ) 
+Note: you may need to install some of them cause not all of them are preinstalled 
+
+exiftool : show description / author / ...  of a file
 binwalk -e: extract hidden data / files
 steghide : extract hidden data with passphrase ( not like binwalk !!) 
 stegseek
