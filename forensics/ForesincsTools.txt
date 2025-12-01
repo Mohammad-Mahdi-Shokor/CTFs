@@ -16,4 +16,4 @@ unzip: unzips files ( use -l to list all files in it )
 zipinfo: gives you info about zip file
 wireshark : capture network traffic + view pcap files with better view than terminal
 stegolsb steglsb -r -i secret.png -n 2 -o secret_output ( now flag is hidden in secret_outpt) : extracts lsb hidden files
-stegsuite: extract hidden files using password
+stegsuite: extract hidden files using password : stegosuite extract -k "password" file.jpg
