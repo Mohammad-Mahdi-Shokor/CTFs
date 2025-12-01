@@ -17,3 +17,5 @@ zipinfo: gives you info about zip file
 wireshark : capture network traffic + view pcap files with better view than terminal
 stegolsb steglsb -r -i secret.png -n 2 -o secret_output ( now flag is hidden in secret_outpt) : extracts lsb hidden files
 stegsuite: extract hidden files using password : stegosuite extract -k "password" file.jpg
+- there is also stegsuite.java (has better ui but slow) : https://github.com/osde8info/stegosuite
+
