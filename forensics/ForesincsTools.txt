@@ -18,3 +18,5 @@ wireshark : capture network traffic + view pcap files with better view than term
 stegolsb steglsb -r -i secret.png -n 2 -o secret_output ( now flag is hidden in secret_outpt) : extracts lsb hidden files
 stegsuite: extract hidden files using password : stegosuite extract -k "password" file.jpg
 - there is also stegsuite.java (has better ui but slow) : https://github.com/osde8info/stegosuite/releases/tag/v0.8.0-2022-01
+stegsnow -p "1234" hidden.txt : shows hidden data inside a txt file ( written in spaces language )  
+  - 1234 is password, if it doesn't request password, just write stegsnow hidden.txt
