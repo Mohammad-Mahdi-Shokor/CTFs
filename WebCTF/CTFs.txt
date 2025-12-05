@@ -1,0 +1,5 @@
+Web CTfs I solved : 
+
+Easy:
+- https://play.picoctf.org/practice/challenge/520 (hint: use burpsuite + cryptii)
+
