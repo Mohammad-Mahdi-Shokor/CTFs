@@ -4,3 +4,4 @@ Easy:
 - https://play.picoctf.org/practice/challenge/520      (hint: use burpsuite + cryptii)
 - https://play.picoctf.org/practice/challenge/66       (hint: split in plain text)
 - https://play.picoctf.org/practice/challenge/18       (hint: split in plane text)
+- https://play.picoctf.org/practice/challenge/161      (hint: too much effort, just google it man)
