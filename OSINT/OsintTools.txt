@@ -1,0 +1,5 @@
+Tools mentioned in ctf training :
+1. nmap <IP/link> : to scan for available ports ( initially only TCP ports )
+2. arp-scan <Your IP>/<prefix length> : Scans available IPs in specific range (2 to the power of (32 - prefix length ) )
+3. (website) nslookup.io : view dns records of a website ( their IPs / records / Google DNS data / ... ) 
+4. dig TXT <IP/link> : view DNS records in kali
