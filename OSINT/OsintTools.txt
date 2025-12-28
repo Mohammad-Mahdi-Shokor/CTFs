@@ -4,3 +4,4 @@ Tools mentioned in ctf training :
 3. (website) nslookup.io : view dns records of a website ( their IPs / records / Google DNS data / ... ) 
 4. dig TXT <IP/link> : view DNS records in kali
 5. gobuster dns --domain <link> --wordlist wordlist.txt : check what subdomains from a wordlist the website is using
+6. cewl <https://link/> : used to find common words in a website and save them using -w wordlist.txt to a file (may use them in bruteforce / subdomain enumeratio/...)
