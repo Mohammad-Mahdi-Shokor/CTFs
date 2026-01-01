@@ -1,0 +1,6 @@
+These are flags that were found through training of lebanonctf 2026 that might appear in the lebanonctf 2026 :
+
+Monthly challenges : 
+1. KDKA
+2. FLAG{r34ct2sh3ll_uns4f3_d3s3r14l1z4t10n_rc3}
+3 . CTF{LOGIC_OR_LUCK} CTF{ELEVATED_ADMIN_99} Flag: CTF{SQL_INJECTION_MASTER}
