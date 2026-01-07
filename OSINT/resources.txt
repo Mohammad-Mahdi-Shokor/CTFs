@@ -1,0 +1,29 @@
+image search : 
+yandex.ru/images/search
+lens.google
+
+google dorking : 
+GHDB
+
+Dark web monitoring 
+haveibeenpwned.com
+
+port scanning : 
+nmap 
+github.com/bee-san/RustScan 
+www.geeksforgeeks.org/linux-unix/rustscan-faster-nmap-scanning-with-rust/
+
+dns enumeration : 
+dig
+whois
+ffuf
+subfinder
+(all kali linux tools)
+
+wordlist:
+ceWl
+crunch
+
+vulnerability scan : 
+nuclei
+OPENVAS
