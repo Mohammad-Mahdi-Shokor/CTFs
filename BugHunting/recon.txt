@@ -1,0 +1,8 @@
+Google Dorking :
+site:*.target.com intext:"docs.google.com/spreadsheets"
+Kali Tools : 
+paramspider
+subfinder
+nmap
+xoxo
+secret hunter
