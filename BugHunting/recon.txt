@@ -1,5 +1,9 @@
 Google Dorking :
 site:*.target.com intext:"docs.google.com/spreadsheets"
+site:*.target.com intext:"docs.google.com/drive"
+site:*.target.com intext:"docs.google.com/presentation/d"
+site:*.target.com intext:"Target 2026" ( copyright claim )
+site:sub.target.com "admin" "login" "data" "user"
 Kali Tools : 
 paramspider
 subfinder
