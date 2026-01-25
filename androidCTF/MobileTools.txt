@@ -8,3 +8,4 @@ For Mobile CTF:
   7.apktool - get the files of any apk + be able to modify it ( you will need apksigner to add key for the app before returning it back to apk ) 
   8.apksigner - mentioned above
   9.Ghidra - be able to view assembly code of apk (reverse engineer the app)
+  10. apkurlgrep - it greps endpoints inside apks 
