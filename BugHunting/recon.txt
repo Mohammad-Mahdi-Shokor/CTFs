@@ -10,3 +10,4 @@ subfinder
 nmap
 xoxo
 secret hunter
+Shodan
