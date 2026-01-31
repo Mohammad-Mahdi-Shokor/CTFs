@@ -1,0 +1,7 @@
+online hash crackstation : it cracks hashes  : https://crackstation.net/
+encrypting and decrypting tool : https://cyberchef.io/ ( you may download it (idk))
+
+Kali cmds :
+1. base64 : encodes and decodes base64
+2. hashcat : cracks hashs
+3. john : Idk, I'll find out later what does he do
