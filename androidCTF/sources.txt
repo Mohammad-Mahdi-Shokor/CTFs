@@ -3,3 +3,4 @@ https://github.com/huynhvanphuc/Mobile-App-Pentest
 
 writeups : 
 https://m4kr0.vercel.app/posts/flutter-ssl-bypass-how-to-intercept-https-traffic-when-all-other-frida-scripts-fail/
+https://medium.com/@psychsecurity/bypassing-ssl-pinning-in-instagrams-ios-app-a77b3037453a
