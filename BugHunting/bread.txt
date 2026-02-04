@@ -1,0 +1,36 @@
+webanalyse cmd kali
+nuclei scans for cves
+noobu	
+rustscan
+sqlmap
+content discovery tools : gobuster , ffuf , dirsearch , turbo intruder, feroxbuster
+source2url : gets wordlist from opensource
+gau : pull endpoints from history shit
+xnl_h4ck3r
+
+target newsletter
+affliliate program
+google conference talks
+monitoring the domain for code changes
+
+how does the app passes data? (rest / api shit / ...)
+how / wehre does the app talk about users? (uid / email / username / uuid / where cookies / api calls ?)
+does the site have muyltitenancy or user levels ?
+does the site have a unique threat model ?
+has there been past security research and vulns?
+how does the application handle XSS/CSRF/Code Injection/...?
+spidering 
+	(zap & burp)
+	hakrawler & gospider ( in cmd )
+JS
+	xslinkfinder
+	GAP
+   libs/dependencies 
+	retire.js
+parameter analysis
+		HUNT
+		XSSed.com
+		gf
+		gf patterns
+sus_params
+heat mapping mind map
