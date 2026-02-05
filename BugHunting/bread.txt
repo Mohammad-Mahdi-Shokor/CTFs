@@ -34,3 +34,38 @@ parameter analysis
 		gf patterns
 sus_params
 heat mapping mind map
+
+https://github.com/Raunaksplanet/My-CyberSecurity-Store/tree/main
+
+Common Mistakes :
+1.	Permitting Invalid Data to Enter the Database
+2.	Focusing on the System as a Whole
+3.	Establishing Personally Developed Security Methods
+4.	Treating Security to be Your Last Step
+5.	Developing Plain Text Password Storage
+6.	Creating Weak Passwords
+7.	Storing Unencrypted Data in the Database
+8.	Depending Excessively on the Client Side
+9.	Being Too Optimistic
+10.	Permitting Variables via the URL Path Name
+11.	Trusting third-party code
+12.	Hard-coding backdoor accounts
+13.	Unverified SQL injections
+14.	Remote file inclusions
+15.	Insecure data handling
+16.	Failing to encrypt data properly
+17.	Not using a secure cryptographic system
+18.	Ignoring layer 8
+19.	Review user actions
+20.	Web Application Firewall misconfigurations
+
+The <head> element usually contains elements that are not directly printed on the page, like the page title, while all main page elements are located under <body>. Other important elements include the <style>, which holds the page's CSS code, and the <script>, which holds the JS code of the page, as we will see in the next section.
+
+Each of these elements is called a DOM (Document Object Model). The World Wide Web Consortium (W3C) defines DOM as:
+"The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document."
+
+The DOM standard is separated into 3 parts:
+
+Core DOM - the standard model for all document types
+XML DOM - the standard model for XML documents
+HTML DOM - the standard model for HTML documents
