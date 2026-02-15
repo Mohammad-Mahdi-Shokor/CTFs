@@ -12,3 +12,4 @@ Easy:
 
 Medium:
 - https://play.picoctf.org/practice/challenge/488        (hint: SSTI)
+- https://tryhackme.com/room/lafb2026e10                 (hint: LFI directory transversal)
