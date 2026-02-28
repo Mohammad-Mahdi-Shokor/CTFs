@@ -1,3 +1,3 @@
 
 - casmbclient
- 
+- proxychains + anycmd : use any command with prefix of proxychains to send requests to burp suite also
