@@ -1,0 +1,1 @@
+It has tons of payloads to consider : https://github.com/swisskyrepo/PayloadsAllTheThings
