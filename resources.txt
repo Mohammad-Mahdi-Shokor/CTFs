@@ -1,1 +1,3 @@
 It has tons of payloads to consider : https://github.com/swisskyrepo/PayloadsAllTheThings
+
+Geolocation : https://github.com/The-Osint-Toolbox/Geolocation-OSINT
