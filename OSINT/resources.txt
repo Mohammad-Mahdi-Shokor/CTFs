@@ -27,3 +27,6 @@ crunch
 vulnerability scan : 
 nuclei
 OPENVAS
+
+geolocation
+https://www.bellingcat.com/news/2020/01/21/geolocating-venezuelan-lawmakers-in-europe
