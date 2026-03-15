@@ -21,3 +21,6 @@ stegsuite: extract hidden files using password : stegosuite extract -k "password
   - there is also stegsuite.java (has better ui but slow) : https://github.com/osde8info/stegosuite/releases/tag/v0.8.0-2022-01
 stegsnow -p "1234" hidden.txt : shows hidden data inside a txt file ( written in spaces language )  
   - 1234 is password, if it doesn't request password, just write stegsnow hidden.txt
+fls -rd <file> : list deleted files 
+icat <file> <number> > recovered_file : recover a file by incode number
+
