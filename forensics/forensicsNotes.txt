@@ -1,0 +1,16 @@
+Notes:
+
+An IMG file is a raw disk image — it's a byte-for-byte copy of a storage device or partition.
+A real hard drive or USB looks like this physically:
+[sector 0][sector 1][sector 2]...[sector N]
+An IMG file is just that exact same sequence of bytes saved as a file. Nothing is compressed or modified — it's a 1:1 clone.
+
+Common extensions you'll see:
+Extension Meaning
+.img      Generic raw disk/partition image
+.dd       Created with the dd tool (same thing)
+.iso      CD/DVD image (also raw)
+.vmdk     VMware virtual disk.
+vhd       Windows virtual disk
+
+They're all essentially the same idea — a file that represents a disk.
