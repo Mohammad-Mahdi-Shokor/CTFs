@@ -2,3 +2,4 @@
 - casmbclient
 - proxychains + anycmd : use any command with prefix of proxychains to send requests to burp suite also
 - to send metasploit requests to burp : set PROXIES HTTP:127.0.0.1:8080
+- dd if=/dev/urandom of=name.pdf bs=1M count=30 : create a file named name.pdf with size 1M * 30 = 30 MB 
