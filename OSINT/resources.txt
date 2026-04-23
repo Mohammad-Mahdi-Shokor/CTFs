@@ -30,3 +30,6 @@ OPENVAS
 
 geolocation
 https://www.bellingcat.com/news/2020/01/21/geolocating-venezuelan-lawmakers-in-europe
+
+
+to create a human image : https://thispersondoesnotexist.com/
