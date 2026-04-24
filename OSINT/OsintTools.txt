@@ -8,3 +8,4 @@ Tools mentioned in ctf training :
 7. subfinder <IP/link> : finds subdomains 
 8. dq : add it at the end of command that reads json , it makes it readable
 9. https://www.mariosantella.com/the-osint-rack/](https://www.mariosantella.com/the-osint-rack/
+10. whois : Identifying Key Personnel , Discovering Network Infrastructure and Historical Data Analysis
