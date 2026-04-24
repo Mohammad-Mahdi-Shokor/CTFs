@@ -9,3 +9,4 @@ For Mobile CTF:
   8.apksigner - mentioned above
   9.Ghidra - be able to view assembly code of apk (reverse engineer the app)
   10. apkurlgrep - it greps endpoints inside apks 
+  11. to extract code to vs code : export as gradle in jadx.gui
