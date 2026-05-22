@@ -9,8 +9,10 @@ paramspider
 subfinder
 nmap
 xoxo
-secret hunter
 Shodan
 https://web.archive.org
 https://search.censys.io : In-depth analysis of certificates, identifying misconfigurations, finding related certificates and hosts.
-https://crt.sh/: Quick and easy searches, identifying subdomains, checking certificate issuance history.
+https://crt.sh/: Quick and easy searches, identifying subdomains, checking certificate issuance history. : curl -s "https://crt.sh/?q=facebook.com&output=json" | jq -r '.[]
+https://builtwith.com: Web technology profiler that provides detailed reports on a website's technology stack.
+whatweb: Command-line tool for website fingerprinting.
+nikto -h inlanefreight.com -Tuning b 
