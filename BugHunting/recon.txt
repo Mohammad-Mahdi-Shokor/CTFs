@@ -13,3 +13,4 @@ secret hunter
 Shodan
 https://web.archive.org
 https://search.censys.io : In-depth analysis of certificates, identifying misconfigurations, finding related certificates and hosts.
+https://crt.sh/: Quick and easy searches, identifying subdomains, checking certificate issuance history.
