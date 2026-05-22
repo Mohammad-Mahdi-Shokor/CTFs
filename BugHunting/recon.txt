@@ -12,4 +12,4 @@ xoxo
 secret hunter
 Shodan
 https://web.archive.org
-https://search.censys.io/ : In-depth analysis of certificates, identifying misconfigurations, finding related certificates and hosts.
+https://search.censys.io : In-depth analysis of certificates, identifying misconfigurations, finding related certificates and hosts.
