@@ -1,0 +1,3 @@
+flameshot gui: helps in creating a screenshot
+script file.log: records all scripts and their outputs (exit through exit)
+https://obsidian.md/: visualising
