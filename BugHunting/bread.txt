@@ -7,7 +7,7 @@ content discovery tools : gobuster , ffuf , dirsearch , turbo intruder, feroxbus
 source2url : gets wordlist from opensource
 gau : pull endpoints from history shit
 xnl_h4ck3r
-
+script: writes all your commands and outputs in a file (script test.txt) untill you exit
 target newsletter
 affliliate program
 google conference talks
