@@ -36,6 +36,36 @@ sus_params
 heat mapping mind map
 
 https://github.com/Raunaksplanet/My-CyberSecurity-Store/tree/main
+common pentesting tools : 
+netcat
+ncat
+nmap
+wireshark
+tcpdump
+hashcat
+ffuf
+gobuster
+hydra
+zaproxy
+proxychains
+sqlmap
+radare2
+metasploit-framework
+python2.7
+python3
+spiderfoot
+theharvester
+remmina
+xfreerdp
+rdesktop
+crackmapexec
+exiftool
+curl
+seclists
+testssl.sh
+git
+vim
+tmux
 
 Common Mistakes :
 1.	Permitting Invalid Data to Enter the Database
