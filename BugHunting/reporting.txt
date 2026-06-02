@@ -2,3 +2,5 @@ flameshot gui: helps in creating a screenshot
 script file.log: records all scripts and their outputs (exit through exit)
 https://obsidian.md/: visualising
 https://xmind.com/: mind map
+https://github.com/GhostManager/Ghostwriter: record findings 
+https://github.com/pwndoc/pwndoc : record findings 
