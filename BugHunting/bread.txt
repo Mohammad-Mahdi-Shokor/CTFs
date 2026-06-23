@@ -2,7 +2,7 @@ webanalyse cmd kali
 nuclei scans for cves
 noobu	
 rustscan
-sqlmap
+sqlmap : scans the app for any sql injection
 content discovery tools : gobuster , ffuf , dirsearch , turbo intruder, feroxbuster
 source2url : gets wordlist from opensource
 gau : pull endpoints from history shit
