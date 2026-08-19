@@ -3,6 +3,7 @@ Note: you may need to install some of them cause not all of them are preinstalle
 
 exiftool : show description / author / ...  of a file
 binwalk -e: extract hidden data / files
+basenc -d --base2msbf : decode binary 
 steghide : extract hidden data with passphrase ( not like binwalk !!) 
 stegseek
 eog : view image
