@@ -18,3 +18,4 @@ https://play.picoctf.org/practice/challenge/415
 
 Beginner: 
 https://learn.cylabacademy.org/library/698 (Hint: Binary)
+https://learn.cylabacademy.org/library/530 (Hint: exiftool, hexdata)
