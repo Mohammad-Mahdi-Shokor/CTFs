@@ -1,18 +1,18 @@
-https://play.picoctf.org/practice/challenge/530
-https://play.picoctf.org/practice/challenge/460
-https://play.picoctf.org/practice/challenge/427
-https://play.picoctf.org/practice/challenge/527
-https://play.picoctf.org/practice/challenge/524
-https://play.picoctf.org/practice/challenge/408
-https://play.picoctf.org/practice/challenge/505
-https://play.picoctf.org/practice/challenge/362
-https://play.picoctf.org/practice/challenge/350
-https://play.picoctf.org/practice/challenge/305
-https://play.picoctf.org/practice/challenge/348
-https://play.picoctf.org/practice/challenge/286
-https://play.picoctf.org/practice/challenge/459
-https://play.picoctf.org/practice/challenge/423
-https://play.picoctf.org/practice/challenge/415
+https://learn.cylabacademy.org/library/530
+https://learn.cylabacademy.org/library/460
+https://learn.cylabacademy.org/library/427
+https://learn.cylabacademy.org/library/527
+https://learn.cylabacademy.org/library/524
+https://learn.cylabacademy.org/library/408
+https://learn.cylabacademy.org/library/505
+https://learn.cylabacademy.org/library/362
+https://learn.cylabacademy.org/library/350
+https://learn.cylabacademy.org/library/305
+https://learn.cylabacademy.org/library/348
+https://learn.cylabacademy.org/library/286
+https://learn.cylabacademy.org/library/459
+https://learn.cylabacademy.org/library/423
+https://learn.cylabacademy.org/library/415
 
 
 
@@ -20,3 +20,4 @@ Beginner:
 https://learn.cylabacademy.org/library/698 (Hint: Binary)
 https://learn.cylabacademy.org/library/530 (Hint: exiftool, hexdata)
 https://learn.cylabacademy.org/library/524 (Hint: exiftool, hexdata)
+https://learn.cylabacademy.org/library/460 (Hint: LSB)
