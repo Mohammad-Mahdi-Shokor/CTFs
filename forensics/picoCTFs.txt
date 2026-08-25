@@ -1,11 +1,3 @@
-https://learn.cylabacademy.org/library/348
-https://learn.cylabacademy.org/library/286
-https://learn.cylabacademy.org/library/459
-https://learn.cylabacademy.org/library/423
-https://learn.cylabacademy.org/library/415
-
-
-
 Beginner: 
 https://learn.cylabacademy.org/library/698 (Hint: Binary)
 https://learn.cylabacademy.org/library/530 (Hint: exiftool, hexdata)
@@ -14,10 +6,12 @@ https://learn.cylabacademy.org/library/408 (Hint: exiftool, hexdata)
 https://learn.cylabacademy.org/library/460 (Hint: LSB)
 https://learn.cylabacademy.org/library/527 (Hint: command line tools - grep) 
 https://learn.cylabacademy.org/library/505 (Hint: after gzip, just strings + grep)
-
+https://learn.cylabacademy.org/library/286 (Hint: intro to wireshark, or just use car or strings or wtvr)
 
 Medium:
 https://learn.cylabacademy.org/library/362 (Hint: wireshark + search + patience)
+https://learn.cylabacademy.org/library/459 (Hint: wireshark + think out of the box + sort + base64 )
 https://learn.cylabacademy.org/library/350 (binwalk)
 https://learn.cylabacademy.org/library/305 (LSB)
 https://learn.cylabacademy.org/library/415 (little endian)
+https://learn.cylabacademy.org/library/348 (think outside the box a bit lol)
