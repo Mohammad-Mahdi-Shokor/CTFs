@@ -1,8 +1,3 @@
-
-https://learn.cylabacademy.org/library/527
-https://learn.cylabacademy.org/library/408
-https://learn.cylabacademy.org/library/505
-https://learn.cylabacademy.org/library/362
 https://learn.cylabacademy.org/library/350
 https://learn.cylabacademy.org/library/305
 https://learn.cylabacademy.org/library/348
@@ -17,4 +12,11 @@ Beginner:
 https://learn.cylabacademy.org/library/698 (Hint: Binary)
 https://learn.cylabacademy.org/library/530 (Hint: exiftool, hexdata)
 https://learn.cylabacademy.org/library/524 (Hint: exiftool, hexdata)
+https://learn.cylabacademy.org/library/408 (Hint: exiftool, hexdata)
 https://learn.cylabacademy.org/library/460 (Hint: LSB)
+https://learn.cylabacademy.org/library/527 (Hint: command line tools - grep) 
+https://learn.cylabacademy.org/library/505 (Hint: after gzip, just strings + grep)
+
+
+Medium:
+https://learn.cylabacademy.org/library/362 (Hint: wireshark + search + patience)
