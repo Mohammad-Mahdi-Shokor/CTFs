@@ -1,5 +1,3 @@
-https://learn.cylabacademy.org/library/350
-https://learn.cylabacademy.org/library/305
 https://learn.cylabacademy.org/library/348
 https://learn.cylabacademy.org/library/286
 https://learn.cylabacademy.org/library/459
@@ -20,3 +18,6 @@ https://learn.cylabacademy.org/library/505 (Hint: after gzip, just strings + gre
 
 Medium:
 https://learn.cylabacademy.org/library/362 (Hint: wireshark + search + patience)
+https://learn.cylabacademy.org/library/350 (binwalk)
+https://learn.cylabacademy.org/library/305 (LSB)
+https://learn.cylabacademy.org/library/415 (little endian)
