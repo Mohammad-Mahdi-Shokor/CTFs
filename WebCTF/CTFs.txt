@@ -1,6 +1,7 @@
 Web CTfs I solved : 
 
 Easy:
+- https://learn.cylabacademy.org/library/426      (hint: use inspect + scroll in code lol) 1.5/10
 - https://learn.cylabacademy.org/library/520      (hint: use burpsuite + cryptii) done 3/10
 - https://learn.cylabacademy.org/library/66       (hint: split in plain text) done 3.5/10
 - https://learn.cylabacademy.org/library/18       (hint: split in plane text) done 2/10
@@ -8,8 +9,14 @@ Easy:
 - https://learn.cylabacademy.org/library/270      (hint: Command Injection, RCE) 3/10
 - https://learn.cylabacademy.org/library/288      (hint: cookie) 2/10, 
 - https://learn.cylabacademy.org/library/427      (hint: inspect + decode) 3/10
+- https://learn.cylabacademy.org/library/520      (hint: inspect + decode + know what a header is) 4/10
+
 
 Medium:
 - https://learn.cylabacademy.org/library/488       (hint: SSTI)
 - https://tryhackme.com/room/lafb2026e10           (hint: LFI directory transversal)
-- https://learn.cylabacademy.org/library/291        (hint: robots.txt)  4.5/10 
+- https://learn.cylabacademy.org/library/291        (hint: robots.txt + useless stuff lol)  4/10 
+
+
+Hard:
+- https://learn.cylabacademy.org/library/752       (hint: SQLi + use order + check login + dumb data lol) 8/10
