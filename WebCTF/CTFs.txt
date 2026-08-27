@@ -7,7 +7,7 @@ Easy:
 - https://learn.cylabacademy.org/library/161      (hint: too much effort lol, it is split into 6 peices) 4.5/10, took too long
 - https://learn.cylabacademy.org/library/270      (hint: Command Injection, RCE) 3/10
 - https://learn.cylabacademy.org/library/288      (hint: cookie) 2/10, 
-- https://learn.cylabacademy.org/library/427      (hint: inspect + decode)
+- https://learn.cylabacademy.org/library/427      (hint: inspect + decode) 3/10
 
 Medium:
 - https://learn.cylabacademy.org/library/488       (hint: SSTI)
