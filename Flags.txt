@@ -4,3 +4,22 @@ Monthly challenges :
 1. KDKA
 2. FLAG{r34ct2sh3ll_uns4f3_d3s3r14l1z4t10n_rc3}
 3 . CTF{LOGIC_OR_LUCK} CTF{ELEVATED_ADMIN_99} Flag: CTF{SQL_INJECTION_MASTER}
+
+
+
+Crypto:
+	Base64: Growing the Cyber Community
+	Ceasar: I LOVE HACKING (7)
+		Who will win the Semicolon CTF (6)
+	One-Way Hash: SEMICOLON (same input => same output in hashes) crackstation
+	password123
+	
+	c10bca74ef88d124b3c0ebcd5a87fe452d29b77f
+	T}2*5`wL@Pz
+	
+	password123!
+	b7e283a09511d95d6eac86e39e7942c0
+	
+	XOR: key: Cryptography
+	AES: FLAG{pwnAES} - WORD: howaboutthis
+	
