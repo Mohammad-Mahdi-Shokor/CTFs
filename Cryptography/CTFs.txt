@@ -3,3 +3,7 @@
 Easy:
     https://learn.cylabacademy.org/library/475 : 3/10 (hint: all crackable hashes)
     https://learn.cylabacademy.org/library/418 : 3/10 (hint: encoduing algorithms)
+    https://learn.cylabacademy.org/library/144 : 1.5/10 (hint: in the question)
+    https://learn.cylabacademy.org/library/62  : 1/10  (hint: the question)
+    https://learn.cylabacademy.org/library/470 : 4/10 (hint: think how does rsa work)
+    https://learn.cylabacademy.org/library/715 : 3/10 (hint: exposed lol)
