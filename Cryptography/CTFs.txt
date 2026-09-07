@@ -1,0 +1,5 @@
+
+
+Easy:
+    https://learn.cylabacademy.org/library/475 : 3/10 (hint: all crackable hashes)
+    https://learn.cylabacademy.org/library/418 : 3/10 (hint: encoduing algorithms)
