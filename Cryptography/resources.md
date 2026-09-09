@@ -8,6 +8,7 @@ https://youtu.be/qph77bTKJTM?si=IHMejksBImo0X-eJ , https://www.youtube.com/watch
 * [OWASP Cryptography Best Practices](https://owasp.org)
 * [Crypto 101 (open-source book)](https://crypto101.io)
 * [Applied Cryptography by Bruce Schneier](https://schneier.com)
+* [Hacktricks CTF WorkFlow](https://hacktricks.wiki/en/crypto/ctf-workflow/index.html)
 
 ## Training
 * [Google CTF "crypto" category writeups](https://withgoogle.com)
