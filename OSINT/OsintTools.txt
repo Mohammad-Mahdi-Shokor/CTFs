@@ -9,3 +9,7 @@ Tools mentioned in ctf training :
 8. dq : add it at the end of command that reads json , it makes it readable
 9. https://www.mariosantella.com/the-osint-rack/](https://www.mariosantella.com/the-osint-rack/
 10. whois : Identifying Key Personnel , Discovering Network Infrastructure and Historical Data Analysis
+
+
+
+https://github.com/Datalux/Osintgram : OSINT on instagram 
