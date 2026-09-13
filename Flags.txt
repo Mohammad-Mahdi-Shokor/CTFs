@@ -23,3 +23,28 @@ Crypto:
 	XOR: key: Cryptography
 	AES: FLAG{pwnAES} - WORD: howaboutthis
 	
+
+Reverse Engineering: 
+	exiftool
+	picoCTF{ME74D47A_HIDD3N_deca06fb}
+	strings, cat, grep
+	FLOSS, PE-bear
+	binwalk
+	xxd
+	file: track what type of file you have 
+
+	hidden_text.txtTHIS IS A HIDDEN FLAGPK
+	hidden_text.txt
+
+	rubiks,solitaire,ocean,dog (no computer) : THIS IS A HIDDEN FLAG
+
+
+	zsteg : picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
+
+	Wireshark 
+	networkminer
+	FollowTheLeader.pcap : ctfa{terrific_traffic}
+	Haystack.pcap: ctfa{HTTP_FTW} ctfa{HTTP_31337}
+
+
+
