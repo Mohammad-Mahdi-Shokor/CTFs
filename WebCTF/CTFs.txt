@@ -1,6 +1,7 @@
 Web CTfs I solved : 
 
 Easy:
+- https://learn.cylabacademy.org/library/406      (hint: use console to deobfuscate)
 - https://learn.cylabacademy.org/library/426      (hint: use inspect + scroll in code lol) 1.5/10
 - https://learn.cylabacademy.org/library/520      (hint: use burpsuite + cryptii) done 3/10
 - https://learn.cylabacademy.org/library/66       (hint: split in plain text) done 3.5/10
