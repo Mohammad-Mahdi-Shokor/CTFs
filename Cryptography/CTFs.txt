@@ -7,3 +7,8 @@ Easy:
     https://learn.cylabacademy.org/library/62  : 1/10  (hint: the question)
     https://learn.cylabacademy.org/library/470 : 4/10 (hint: think how does rsa work)
     https://learn.cylabacademy.org/library/715 : 3/10 (hint: exposed lol)
+    https://learn.cylabacademy.org/library/43  : 2/10 (hint: vigenre)
+
+
+Medium:
+    https://learn.cylabacademy.org/library/307 : 4/10 (the alphabet is at the beginning, so it might help) 
