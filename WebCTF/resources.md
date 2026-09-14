@@ -1,73 +1,54 @@
-# OSINT & Security Reconnaissance Toolkit
+# Web Application Security & Pentesting Toolkit
 
-A curated reference list of essential tools, repositories, and direct links categorized by operational discipline.
-
----
-
-## 1. Reverse Image Search
-Used to verify profiles, uncover mirrored assets, track stolen imagery, and correlate real-world infrastructure.
-
-* **[Yandex Images](https://yandex.com/images)**  
-  Known for facial recognition precision and tracking images across international and regional hosts.
-* **[Google Images / Lens](https://images.google.com)**  
-  Broad web indexing and visual object search powered by Google Lens.
+A curated reference list of learning paths, exploitation cheat sheets, testing guides, and prevention frameworks focusing on SQL Injection and Business Logic vulnerabilities.
 
 ---
 
-## 2. Google Dorking
-Advanced search operators used to discover sensitive file disclosures, exposed credentials, configuration backups, and unindexed web paths.
+## 1. SQL Injection (SQLi)
 
-* **[Google Hacking Database (GHDB)](https://exploit-db.com/google-hacking-database)**  
-  Curated repository on Exploit-DB containing categorized search strings for finding exposed systems, login portals, server vulnerabilities, and sensitive documents.
+### Fundamentals & Technical Guides
+* **[GeeksforGeeks: SQL Injection (SQLi)](https://www.geeksforgeeks.org/sql-injection/)**  
+  Foundational tutorial explaining SQL injection mechanics, error-based, union-based, and blind vectors, alongside standard code remediation.
+* **[GeeksforGeeks: MySQL SQL Injection](https://www.geeksforgeeks.org/mysql/mysql-sql-injection/)**  
+  Technical breakdown of database-specific attack surfaces, blind boolean/time delays, and out-of-band exfiltration on MySQL systems.
 
----
+### Practice Labs & Structured Learning
+* **[PortSwigger Web Security Academy: SQL Injection Learning Path & Labs](https://portswigger.net/web-security/learning-paths/sql-injection)**  
+  Hands-on interactive lab environment covering UNION attacks, hidden data retrieval, blind conditional responses, and error-based data extraction.
+* **[PortSwigger SQL Injection Main Reference & Cheat Sheet](https://portswigger.net/web-security/sql-injection)**  
+  Theoretical overview covering syntax discrepancies across Oracle, Microsoft SQL Server, PostgreSQL, and MySQL.
 
-## 3. Dark Web & Breach Monitoring
-Identify compromised credentials, leaked database snapshots, and credential-stuffing exposure across black-market collections.
-
-* **[Have I Been Pwned](https://haveibeenpwned.com)**  
-  Breach search utility and notification engine documenting compromised email addresses, usernames, and hashed passwords from commercial leaks and underground dumps.
-
----
-
-## 4. Port Scanning & Service Discovery
-Host discovery, open socket auditing, and daemon banner fingerprinting across external perimeter targets.
-
-* **[Nmap](https://nmap.org)**  
-  The de facto network exploration tool and security scanner. Supports NSE scripting, OS fingerprinting, and service identification.
-* **[RustScan](https://github.com/RustScan/RustScan)**  
-  Extremely fast, asynchronous port scanner written in Rust designed to scan 65,535 ports in seconds and feed findings directly to Nmap for deep service analysis.
-
----
-
-## 5. DNS Enumeration & Reconnaissance
-Identify asset namespaces, resolve nameservers, find virtual hosts, and passively map target attack surfaces.
-
-* **[dig (Domain Information Groper)](https://digwebinterface.com)**  
-  Standard DNS investigation utility for querying specific record types (A, AAAA, MX, TXT, CNAME, SOA, AXFR). Standalone source available via [ISC BIND](https://www.isc.org/bind/).
-* **[Whois](https://lookup.icann.org)**  
-  Domain registry query tool for pulling registrar records, creation dates, nameservers, and administrative contacts. CLI native or ICANN lookup.
-* **[subfinder](https://github.com/projectdiscovery/subfinder)**  
-  Passive subdomain discovery utility by ProjectDiscovery that aggregates passive online sources to discover valid subdomains quickly without touching the target.
-* **[ffuf (Fuzz Faster U Fool)](https://github.com/ffuf/ffuf)**  
-  High-performance HTTP fuzzer written in Go, useful for subdomain discovery, virtual host identification, and directory/parameter brute-forcing.
+### Defensive Engineering & Cheat Sheets
+* **[OWASP SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)**  
+  Industry standard for secure development practices, detailing parameterized queries (prepared statements), stored procedure safety, and allow-list input validation.
+* **[PentestMonkey SQL Injection Cheat Sheets](https://pentestmonkey.net/category/cheat-sheet/sql-injection)**  
+  Renowned quick-reference compilation providing syntax tables for privilege escalation, schema dumping, time delays, and out-of-band queries across backends:
+  * [MySQL SQL Injection Cheat Sheet](https://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
+  * [PostgreSQL SQL Injection Cheat Sheet](https://pentestmonkey.net/cheat-sheet/sql-injection/postgres-sql-injection-cheat-sheet)
+  * [MSSQL SQL Injection Cheat Sheet](https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)
+  * [Oracle SQL Injection Cheat Sheet](https://pentestmonkey.net/cheat-sheet/sql-injection/oracle-sql-injection-cheat-sheet)
 
 ---
 
-## 6. Wordlist Generation
-Produce targeted dictionaries and permutations based on client profiling, brand keywords, or syntax constraints.
+## 2. Business Logic Vulnerabilities
 
-* **[CeWL (Custom Word List generator)](https://github.com/digininja/CeWL)**  
-  Command-line Ruby application that spiders a target domain to extract unique words, industry jargon, and internal terminology for custom password/directory lists.
-* **[crunch](https://sourceforge.net/projects/crunch-wordlist)**  
-  Flexible utility that generates custom wordlists based on defined character sets, lengths, and regex-like pattern structures.
+### Interactive Labs & Attack Vectors
+* **[PortSwigger Web Security Academy: Business Logic Vulnerabilities](https://portswigger.net/web-security/logic-flaws)**  
+  Core modules detailing how flawed assumptions in design lead to client-side control abuse, broken workflow state machines, and authentication bypasses.
+* **[PortSwigger Business Logic Labs & Examples](https://portswigger.net/web-security/logic-flaws/examples)**  
+  Targeted challenges covering excessive trust in client parameters, multi-step transaction circumvention, and race conditions.
 
----
-
-## 7. Vulnerability Scanning
-Automated signature detection, misconfiguration auditing, and CVE mapping across networks and applications.
-
-* **[nuclei](https://github.com/projectdiscovery/nuclei)**  
-  Fast, community-driven vulnerability scanner utilizing declarative YAML templates for automated checks across HTTP, DNS, TCP, SSL, and Websocket protocols.
-* **[OpenVAS / Greenbone Community Edition](https://www.greenbone.net/en/community-edition/)**  
-  Enterprise-grade, open-source vulnerability scanner capable of running thousands of Network Vulnerability Tests (NVTs) across complex network infrastructure. Official repository on [GitHub](https://github.com/greenbone/openvas-scanner).
+### Methodology & Testing Frameworks
+* **[OWASP Web Security Testing Guide (WSTG) - Business Logic Testing](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/10-Business_Logic_Testing/)**  
+  Standardized methodology (Category 4.10: `WSTG-BUSL`) for auditing application workflow integrity:
+  * **WSTG-BUSL-01:** Test Business Logic Data Validation
+  * **WSTG-BUSL-02:** Test Ability to Forge Requests
+  * **WSTG-BUSL-03:** Test Integrity Checks
+  * **WSTG-BUSL-04:** Test for Process Timing
+  * **WSTG-BUSL-05:** Test Number of Times a Function Can Be Used (Limits)
+  * **WSTG-BUSL-06:** Test for the Circumvention of Workflows
+  * **WSTG-BUSL-07:** Test Defenses Against Application Misuse
+  * **WSTG-BUSL-08:** Test Upload of Unexpected File Types
+  * **WSTG-BUSL-09:** Test Upload of Malicious Files
+* **[OWASP Business Logic Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Business_Logic_Security_Cheat_Sheet.html)**  
+  Architectural patterns for enforcing state machines on the server, preventing concurrency flaws, and establishing atomic transaction boundaries.
