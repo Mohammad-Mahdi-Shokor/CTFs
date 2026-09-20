@@ -15,6 +15,8 @@ Tools mentioned in ctf training :
 https://github.com/Datalux/Osintgram : OSINT on instagram 
 
 
+
+https://github.com/h4x0r-dz/Leaked-Credentials
 Finding leaked credentials : 
 To search for leaked credentials using Google Chrome's Developer Tools and regex, follow these short steps:
 
