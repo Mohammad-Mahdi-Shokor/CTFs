@@ -1,1 +1,4 @@
 https://portswigger.net/web-security/llm-attacks/lab-exploiting-llm-apis-with-excessive-agency : easy prompt engineery
+
+
+https://play.lakera.ai : diverse levels of prompt eng
