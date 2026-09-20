@@ -52,3 +52,7 @@ A curated reference list of learning paths, exploitation cheat sheets, testing g
   * **WSTG-BUSL-09:** Test Upload of Malicious Files
 * **[OWASP Business Logic Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Business_Logic_Security_Cheat_Sheet.html)**  
   Architectural patterns for enforcing state machines on the server, preventing concurrency flaws, and establishing atomic transaction boundaries.
+
+
+
+  XSS labs : [Mohammad-Mahdi-Shokor/myrepo](https://xss-game.appspot.com)
