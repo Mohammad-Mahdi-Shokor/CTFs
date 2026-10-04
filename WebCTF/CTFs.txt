@@ -12,12 +12,20 @@ Easy:
 - https://learn.cylabacademy.org/library/288      (hint: cookie) 2/10, 
 - https://learn.cylabacademy.org/library/427      (hint: inspect + decode) 3/10
 - https://learn.cylabacademy.org/library/520      (hint: inspect + decode + know what a header is) 4/10
+- https://learn.cylabacademy.org/library/739       what is a session
+- https://learn.cylabacademy.org/library/482       command injection
+- https://learn.cylabacademy.org/library/476       swagger UI /api-docs + patience
+- https://learn.cylabacademy.org/library/469       easy, base64 + cookies
+- https://learn.cylabacademy.org/library/274       inspect : super easy
+- https://learn.cylabacademy.org/library/46        cookie on login, burp or cookie shit
+- https://learn.cylabacademy.org/library/173       intruder on numbers for cookie, 5/10 nice
+- https://learn.cylabacademy.org/library/132       know how headers work and how to send requests
 
 
 Medium:
 - https://learn.cylabacademy.org/library/488       (hint: SSTI)
 - https://tryhackme.com/room/lafb2026e10           (hint: LFI directory transversal)
-- https://learn.cylabacademy.org/library/291        (hint: robots.txt + useless stuff lol)  4/10 
+- https://learn.cylabacademy.org/library/291       (hint: robots.txt + useless stuff lol)  4/10 
 
 
 Hard:
