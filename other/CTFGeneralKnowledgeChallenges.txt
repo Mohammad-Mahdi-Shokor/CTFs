@@ -1,3 +1,4 @@
 
 Learn how to combine many files into one : https://play.picoctf.org/events/79/challenges/740?category=5&page=1
 normal code reading : https://play.picoctf.org/events/79/challenges/742?category=5&page=1
+SMB share enumeration: learn.cylabacademy.org/library/759
