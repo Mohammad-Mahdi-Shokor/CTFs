@@ -8,7 +8,7 @@ Easy:
     https://learn.cylabacademy.org/library/470 : 4/10 (hint: think how does rsa work)
     https://learn.cylabacademy.org/library/715 : 3/10 (hint: exposed lol)
     https://learn.cylabacademy.org/library/43  : 2/10 (hint: vigenre)
-
+    https://learn.cylabacademy.org/library/759 : 4/10 (hint: command line tools for crypto)
 
 Medium:
     https://learn.cylabacademy.org/library/307 : 4/10 (the alphabet is at the beginning, so it might help) 
