@@ -3,3 +3,4 @@ Learn how to combine many files into one : https://play.picoctf.org/events/79/ch
 normal code reading : https://learn.cylabacademy.org/library/759
 SMB share enumeration: learn.cylabacademy.org/library/759
 git and github : learn.cylabacademy.org/library/759
+Command Injection : https://learn.cylabacademy.org/library/757
